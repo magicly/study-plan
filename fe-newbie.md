@@ -40,6 +40,15 @@
 * http://www.gulpjs.com.cn/
 * http://gulpjs.co/
 
+# npm script， 不在需要gulp等， 我觉得用npm和webpack就可以满足我所有的要求了
+
+* https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.i4jfkix9m
+* http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part1
+* https://docs.npmjs.com/misc/scripts
+* http://www.w3ctrain.com/2016/02/27/why-npm-scripts/
+* http://bubkoo.com/2016/03/18/how-to-use-npm-as-a-build-tool/
+* http://www.alloyteam.com/2016/03/master-npm/
+
 # Redux
 
 * http://cn.redux.js.org/
