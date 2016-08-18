@@ -19,6 +19,7 @@
 
 # React
 
+* https://github.com/petehunt/react-howto
 * https://facebook.github.io/react/index.html
 * https://hulufei.gitbooks.io/react-tutorial/content/index.html
 * https://segmentfault.com/a/1190000003899845
